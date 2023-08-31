@@ -1,0 +1,35 @@
+{
+  "name": "tacticalmap-p81",
+  "id": "tacticalmap-p81",
+  "title": "TM Warehouse port",
+  "description": "Storage port in the city for mooring cargo ships. As well as a version of the map with a warehouse on the shore with a small pier.",
+  "author": "Tactical Master",
+  "authors": [],
+  "url": "https://www.patreon.com/tacticalmap",
+  "flags": {},
+  "version": "1.0",
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "11",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "name": "warehouse-port",
+      "label": "TM Warehouse port",
+      "path": "packs/warehouse-port.db",
+      "type": "Scene",
+	  "entity": "Scene",
+      "module": "warehouse-port",
+      "private": false
+    }
+  ],
+  "system": [],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "",
+  "download": "",
+  "protected": false,
+  "coreTranslation": false
+}
